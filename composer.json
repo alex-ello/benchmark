@@ -8,6 +8,6 @@
         }
     ],
     "autoload": {
-        "files": "/Benchmark.php"
+        "files": "Benchmark.php"
     }
 }
