@@ -1,0 +1,13 @@
+{
+    "name": "ello/benchmark",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "systemalex@mail.ru"
+        }
+    ],
+    "autoload": {
+        "files": "/Benchmark.php"
+    }
+}
