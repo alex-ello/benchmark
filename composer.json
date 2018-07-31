@@ -8,6 +8,6 @@
         }
     ],
     "autoload": {
-        "files": "Benchmark.php"
+        "classmap": ["Benchmark.php"]
     }
 }
